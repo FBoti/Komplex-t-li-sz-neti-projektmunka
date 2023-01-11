@@ -1,0 +1,60 @@
+body {
+  background-color: lightslategrey;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: black;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#polo {
+  font-size: 300%;
+  text-align: left;
+  text-decoration: underline;
+  padding-left: 50px;
+}
+
+#bre {
+  font-size: xx-large;
+ }
+
+ .kepKozepre{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.kozep{
+  text-align: center;
+}
+
+#termek {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
